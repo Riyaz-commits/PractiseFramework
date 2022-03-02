@@ -75,6 +75,11 @@ public static void initialization()
 		WebDriverManager.iedriver().setup();
 		driver = new InternetExplorerDriver();
 	}
+	else if (System.getProperty("browser").equalsIgnoreCase("Edge")) {
+		WebDriverManager.edgedriver().setup();
+		driver = new InternetExplorerDriver();
+	}
+	
 	
 	
 	driver.manage().window().maximize();
