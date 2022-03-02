@@ -1,0 +1,61 @@
+[ {
+  "uid" : "b658e6bc95d6fa38",
+  "name" : "loginpagetitlecase",
+  "time" : {
+    "start" : 1642484699914,
+    "stop" : 1642484699920,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "58e7596f2f779fa2",
+  "name" : "loginappfail",
+  "time" : {
+    "start" : 1642484648299,
+    "stop" : 1642484650746,
+    "duration" : 2447
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9295db923f39760d",
+  "name" : "loginapp",
+  "time" : {
+    "start" : 1642484714447,
+    "stop" : 1642484723909,
+    "duration" : 9462
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "153052ee76bca51c",
+  "name" : "adminaccess",
+  "time" : {
+    "start" : 1642484628738,
+    "stop" : 1642484634510,
+    "duration" : 5772
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "649627f8af98f17c",
+  "name" : "loginappfail",
+  "time" : {
+    "start" : 1642484665998,
+    "stop" : 1642484668473,
+    "duration" : 2475
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ffdeb2fcae01a978",
+  "name" : "loginappfail",
+  "time" : {
+    "start" : 1642484683972,
+    "stop" : 1642484687003,
+    "duration" : 3031
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

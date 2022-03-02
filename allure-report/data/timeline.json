@@ -1,0 +1,665 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-BQS7GFT",
+    "children" : [ {
+      "name" : "9500@DESKTOP-BQS7GFT.TestNG-suites-1(13)",
+      "children" : [ {
+        "name" : "loginappfail",
+        "uid" : "74234aebbd88c77b",
+        "parentUid" : "13a1b9fb290aefc5ec0cfc212df43484",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642482276854,
+          "stop" : 1642482278870,
+          "duration" : 2016
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Admin1", "admin123" ]
+      }, {
+        "name" : "loginappfail",
+        "uid" : "f4d6d1cbcae578a0",
+        "parentUid" : "13a1b9fb290aefc5ec0cfc212df43484",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642482326615,
+          "stop" : 1642482330441,
+          "duration" : 3826
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Admin9", "admin123" ]
+      }, {
+        "name" : "loginapp",
+        "uid" : "40c15ca088d0d972",
+        "parentUid" : "13a1b9fb290aefc5ec0cfc212df43484",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642482376424,
+          "stop" : 1642482390325,
+          "duration" : 13901
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "adminaccess",
+        "uid" : "9e243c1486545bfe",
+        "parentUid" : "13a1b9fb290aefc5ec0cfc212df43484",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642482259469,
+          "stop" : 1642482263808,
+          "duration" : 4339
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginpagetitlecase",
+        "uid" : "ca214c19340da3ef",
+        "parentUid" : "13a1b9fb290aefc5ec0cfc212df43484",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642482356120,
+          "stop" : 1642482356128,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginappfail",
+        "uid" : "2ed804b9355335b0",
+        "parentUid" : "13a1b9fb290aefc5ec0cfc212df43484",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642482295318,
+          "stop" : 1642482308975,
+          "duration" : 13657
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Admin", "Admin1" ]
+      } ],
+      "uid" : "13a1b9fb290aefc5ec0cfc212df43484"
+    }, {
+      "name" : "9196@DESKTOP-BQS7GFT.TestNG-suites-1(13)",
+      "children" : [ {
+        "name" : "loginappfail",
+        "uid" : "a81ad46105d62f15",
+        "parentUid" : "8f57393cb22befe1388a7c85610c1ad7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642440540601,
+          "stop" : 1642440542290,
+          "duration" : 1689
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Admin9", "admin123" ]
+      }, {
+        "name" : "loginapp",
+        "uid" : "85009f169ab659cb",
+        "parentUid" : "8f57393cb22befe1388a7c85610c1ad7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642440560359,
+          "stop" : 1642440566979,
+          "duration" : 6620
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginappfail",
+        "uid" : "fc852815c0b397ca",
+        "parentUid" : "8f57393cb22befe1388a7c85610c1ad7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642440516326,
+          "stop" : 1642440518033,
+          "duration" : 1707
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Admin1", "admin123" ]
+      }, {
+        "name" : "loginpagetitlecase",
+        "uid" : "b46377cabea71d3a",
+        "parentUid" : "8f57393cb22befe1388a7c85610c1ad7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642440551057,
+          "stop" : 1642440551080,
+          "duration" : 23
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginappfail",
+        "uid" : "5d83b582baeeafe3",
+        "parentUid" : "8f57393cb22befe1388a7c85610c1ad7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642440529531,
+          "stop" : 1642440531902,
+          "duration" : 2371
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Admin", "Admin1" ]
+      }, {
+        "name" : "adminaccess",
+        "uid" : "df03e1d141399781",
+        "parentUid" : "8f57393cb22befe1388a7c85610c1ad7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642440503414,
+          "stop" : 1642440507274,
+          "duration" : 3860
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8f57393cb22befe1388a7c85610c1ad7"
+    }, {
+      "name" : "7016@DESKTOP-BQS7GFT.TestNG-suites-1(13)",
+      "children" : [ {
+        "name" : "loginapp",
+        "uid" : "9295db923f39760d",
+        "parentUid" : "c0415f68f248e788794f2ada0c2c9233",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642484714447,
+          "stop" : 1642484723909,
+          "duration" : 9462
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginappfail",
+        "uid" : "649627f8af98f17c",
+        "parentUid" : "c0415f68f248e788794f2ada0c2c9233",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642484665998,
+          "stop" : 1642484668473,
+          "duration" : 2475
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Admin", "Admin1" ]
+      }, {
+        "name" : "adminaccess",
+        "uid" : "153052ee76bca51c",
+        "parentUid" : "c0415f68f248e788794f2ada0c2c9233",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642484628738,
+          "stop" : 1642484634510,
+          "duration" : 5772
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginappfail",
+        "uid" : "58e7596f2f779fa2",
+        "parentUid" : "c0415f68f248e788794f2ada0c2c9233",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642484648299,
+          "stop" : 1642484650746,
+          "duration" : 2447
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Admin1", "admin123" ]
+      }, {
+        "name" : "loginappfail",
+        "uid" : "ffdeb2fcae01a978",
+        "parentUid" : "c0415f68f248e788794f2ada0c2c9233",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642484683972,
+          "stop" : 1642484687003,
+          "duration" : 3031
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Admin9", "admin123" ]
+      }, {
+        "name" : "loginpagetitlecase",
+        "uid" : "b658e6bc95d6fa38",
+        "parentUid" : "c0415f68f248e788794f2ada0c2c9233",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642484699914,
+          "stop" : 1642484699920,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c0415f68f248e788794f2ada0c2c9233"
+    }, {
+      "name" : "9940@DESKTOP-BQS7GFT.TestNG-suites-1(13)",
+      "children" : [ {
+        "name" : "loginappfail",
+        "uid" : "faf5024c5036ccc4",
+        "parentUid" : "e3faaf3c9c8ebd0a6c18a18c82ebaa16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642481759131,
+          "stop" : 1642481762193,
+          "duration" : 3062
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Admin", "Admin1" ]
+      }, {
+        "name" : "loginapp",
+        "uid" : "1017f21a6daf035c",
+        "parentUid" : "e3faaf3c9c8ebd0a6c18a18c82ebaa16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642481825412,
+          "stop" : 1642481838278,
+          "duration" : 12866
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginappfail",
+        "uid" : "21937dd22b74ba60",
+        "parentUid" : "e3faaf3c9c8ebd0a6c18a18c82ebaa16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642481736574,
+          "stop" : 1642481739937,
+          "duration" : 3363
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Admin1", "admin123" ]
+      }, {
+        "name" : "adminaccess",
+        "uid" : "3b66e5dd2c00e4ef",
+        "parentUid" : "e3faaf3c9c8ebd0a6c18a18c82ebaa16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642481715181,
+          "stop" : 1642481721507,
+          "duration" : 6326
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginpagetitlecase",
+        "uid" : "131861eda1e2195e",
+        "parentUid" : "e3faaf3c9c8ebd0a6c18a18c82ebaa16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642481805825,
+          "stop" : 1642481805831,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginappfail",
+        "uid" : "75abce98d7c811cc",
+        "parentUid" : "e3faaf3c9c8ebd0a6c18a18c82ebaa16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642481778235,
+          "stop" : 1642481781206,
+          "duration" : 2971
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Admin9", "admin123" ]
+      } ],
+      "uid" : "e3faaf3c9c8ebd0a6c18a18c82ebaa16"
+    }, {
+      "name" : "3104@DESKTOP-BQS7GFT.TestNG-suites-1(13)",
+      "children" : [ {
+        "name" : "adminaccess",
+        "uid" : "6521bd29ffe99ad8",
+        "parentUid" : "763d2d1a8fc844a3a7bd6b26482ad1ab",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642483948035,
+          "stop" : 1642483950383,
+          "duration" : 2348
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginappfail",
+        "uid" : "b937656e880ad0f5",
+        "parentUid" : "763d2d1a8fc844a3a7bd6b26482ad1ab",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642483966145,
+          "stop" : 1642483969698,
+          "duration" : 3553
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Admin1", "admin123" ]
+      }, {
+        "name" : "loginpagetitlecase",
+        "uid" : "955281a3fb0f77a8",
+        "parentUid" : "763d2d1a8fc844a3a7bd6b26482ad1ab",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642484039852,
+          "stop" : 1642484039861,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginappfail",
+        "uid" : "ffd896bf3986b1b3",
+        "parentUid" : "763d2d1a8fc844a3a7bd6b26482ad1ab",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642483985673,
+          "stop" : 1642483989098,
+          "duration" : 3425
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Admin", "Admin1" ]
+      }, {
+        "name" : "loginapp",
+        "uid" : "24421b64472b3590",
+        "parentUid" : "763d2d1a8fc844a3a7bd6b26482ad1ab",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642484060728,
+          "stop" : 1642484073147,
+          "duration" : 12419
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginappfail",
+        "uid" : "2f2f36439d9fb3db",
+        "parentUid" : "763d2d1a8fc844a3a7bd6b26482ad1ab",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642484007115,
+          "stop" : 1642484011049,
+          "duration" : 3934
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Admin9", "admin123" ]
+      } ],
+      "uid" : "763d2d1a8fc844a3a7bd6b26482ad1ab"
+    }, {
+      "name" : "11568@DESKTOP-BQS7GFT.TestNG-suites-1(13)",
+      "children" : [ {
+        "name" : "loginapp",
+        "uid" : "3d141edf966fda26",
+        "parentUid" : "dfd25c2cf4b8ea756d7ab5aba2468679",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642440626016,
+          "stop" : 1642440633043,
+          "duration" : 7027
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginappfail",
+        "uid" : "183a8577cbe58f88",
+        "parentUid" : "dfd25c2cf4b8ea756d7ab5aba2468679",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642440603741,
+          "stop" : 1642440605445,
+          "duration" : 1704
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Admin9", "admin123" ]
+      }, {
+        "name" : "loginappfail",
+        "uid" : "fd297e5c190467d9",
+        "parentUid" : "dfd25c2cf4b8ea756d7ab5aba2468679",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642440579033,
+          "stop" : 1642440580808,
+          "duration" : 1775
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Admin1", "admin123" ]
+      }, {
+        "name" : "loginappfail",
+        "uid" : "76ebd0b1683e2248",
+        "parentUid" : "dfd25c2cf4b8ea756d7ab5aba2468679",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642440589994,
+          "stop" : 1642440592403,
+          "duration" : 2409
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Admin", "Admin1" ]
+      }, {
+        "name" : "adminaccess",
+        "uid" : "b36d3bce9984a619",
+        "parentUid" : "dfd25c2cf4b8ea756d7ab5aba2468679",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642440566788,
+          "stop" : 1642440569334,
+          "duration" : 2546
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginpagetitlecase",
+        "uid" : "e58533cbbef5f8d7",
+        "parentUid" : "dfd25c2cf4b8ea756d7ab5aba2468679",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642440616656,
+          "stop" : 1642440616669,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dfd25c2cf4b8ea756d7ab5aba2468679"
+    }, {
+      "name" : "16132@DESKTOP-BQS7GFT.TestNG-suites-1(13)",
+      "children" : [ {
+        "name" : "loginpagetitlecase",
+        "uid" : "6aa22627a0f2bb47",
+        "parentUid" : "66080d420ce63161f4d4a4f3fc1df2cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642481128525,
+          "stop" : 1642481128549,
+          "duration" : 24
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginappfail",
+        "uid" : "951d52f4de5247a1",
+        "parentUid" : "66080d420ce63161f4d4a4f3fc1df2cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642481080032,
+          "stop" : 1642481082444,
+          "duration" : 2412
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Admin1", "admin123" ]
+      }, {
+        "name" : "adminaccess",
+        "uid" : "9deeeb46bc54cee7",
+        "parentUid" : "66080d420ce63161f4d4a4f3fc1df2cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642481060512,
+          "stop" : 1642481065045,
+          "duration" : 4533
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginappfail",
+        "uid" : "b6ac2073e8110e88",
+        "parentUid" : "66080d420ce63161f4d4a4f3fc1df2cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642481093038,
+          "stop" : 1642481095548,
+          "duration" : 2510
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Admin", "Admin1" ]
+      }, {
+        "name" : "loginapp",
+        "uid" : "ac30f260753b8893",
+        "parentUid" : "66080d420ce63161f4d4a4f3fc1df2cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642481142199,
+          "stop" : 1642481151467,
+          "duration" : 9268
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginappfail",
+        "uid" : "8ff00b36ab23c8ba",
+        "parentUid" : "66080d420ce63161f4d4a4f3fc1df2cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642481108060,
+          "stop" : 1642481113257,
+          "duration" : 5197
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Admin9", "admin123" ]
+      } ],
+      "uid" : "66080d420ce63161f4d4a4f3fc1df2cb"
+    }, {
+      "name" : "9624@DESKTOP-BQS7GFT.TestNG-suites-1(13)",
+      "children" : [ {
+        "name" : "loginappfail",
+        "uid" : "a14c97190a1e67d2",
+        "parentUid" : "ab2356cd2e0a82328ca898e30abb4fdc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642484416960,
+          "stop" : 1642484420170,
+          "duration" : 3210
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Admin9", "admin123" ]
+      }, {
+        "name" : "loginappfail",
+        "uid" : "17aff70f01a29770",
+        "parentUid" : "ab2356cd2e0a82328ca898e30abb4fdc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642484388377,
+          "stop" : 1642484391203,
+          "duration" : 2826
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Admin", "Admin1" ]
+      }, {
+        "name" : "loginpagetitlecase",
+        "uid" : "36eeb3883563a587",
+        "parentUid" : "ab2356cd2e0a82328ca898e30abb4fdc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642484446381,
+          "stop" : 1642484446387,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginappfail",
+        "uid" : "cae5b31dd70b40f0",
+        "parentUid" : "ab2356cd2e0a82328ca898e30abb4fdc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642484372288,
+          "stop" : 1642484374800,
+          "duration" : 2512
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Admin1", "admin123" ]
+      }, {
+        "name" : "adminaccess",
+        "uid" : "5111ed8068a807c",
+        "parentUid" : "ab2356cd2e0a82328ca898e30abb4fdc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642484349092,
+          "stop" : 1642484356144,
+          "duration" : 7052
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginapp",
+        "uid" : "75d5514b93563c1d",
+        "parentUid" : "ab2356cd2e0a82328ca898e30abb4fdc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642484462255,
+          "stop" : 1642484472340,
+          "duration" : 10085
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ab2356cd2e0a82328ca898e30abb4fdc"
+    } ],
+    "uid" : "23dea14440249d304893f1b8150db339"
+  } ]
+}

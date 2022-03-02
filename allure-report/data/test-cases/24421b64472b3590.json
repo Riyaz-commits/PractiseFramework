@@ -1,0 +1,92 @@
+{
+  "uid" : "24421b64472b3590",
+  "name" : "loginapp",
+  "fullName" : "com.orangehrm.qa.testcases.LoginPageTest.loginapp",
+  "historyId" : "bae54889bd2cc939d4bfd28385dbd754",
+  "time" : {
+    "start" : 1642484060728,
+    "stop" : 1642484073147,
+    "duration" : 12419
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1642484040489,
+      "stop" : 1642484060725,
+      "duration" : 20236
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "endsession",
+    "time" : {
+      "start" : 1642484073150,
+      "stop" : 1642484073773,
+      "duration" : 623
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.orangehrm.qa.testcases.LoginPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.orangehrm.qa.testcases.LoginPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginapp"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.orangehrm.qa.testcases.LoginPageTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-BQS7GFT"
+  }, {
+    "name" : "thread",
+    "value" : "3104@DESKTOP-BQS7GFT.TestNG-suites-1(13)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "24421b64472b3590.json",
+  "parameterValues" : [ ]
+}

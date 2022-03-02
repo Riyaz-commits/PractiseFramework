@@ -1,0 +1,98 @@
+{
+  "uid" : "a14c97190a1e67d2",
+  "name" : "loginappfail",
+  "fullName" : "com.orangehrm.qa.testcases.LoginPageTest.loginappfail",
+  "historyId" : "773b84b2c9e391551b26f817d7927f23",
+  "time" : {
+    "start" : 1642484416960,
+    "stop" : 1642484420170,
+    "duration" : 3210
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1642484391806,
+      "stop" : 1642484416955,
+      "duration" : 25149
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "endsession",
+    "time" : {
+      "start" : 1642484420172,
+      "stop" : 1642484420799,
+      "duration" : 627
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.orangehrm.qa.testcases.LoginPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.orangehrm.qa.testcases.LoginPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginappfail"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.orangehrm.qa.testcases.LoginPageTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-BQS7GFT"
+  }, {
+    "name" : "thread",
+    "value" : "9624@DESKTOP-BQS7GFT.TestNG-suites-1(13)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "Admin9"
+  }, {
+    "name" : "arg1",
+    "value" : "admin123"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a14c97190a1e67d2.json",
+  "parameterValues" : [ "Admin9", "admin123" ]
+}

@@ -1,0 +1,504 @@
+2020-10-25 01:10:36,617  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-25 01:10:36,624  WARN [main] LoginPageTest:36 - Hey this just a warning message
+2020-10-25 01:10:36,624 FATAL [main] LoginPageTest:37 - hey this is just fatal error message
+2020-10-25 01:10:36,624 DEBUG [main] LoginPageTest:38 - this is debug message
+2020-10-25 01:10:47,212  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-25 01:10:47,212  WARN [main] LoginPageTest:36 - Hey this just a warning message
+2020-10-25 01:10:47,212 FATAL [main] LoginPageTest:37 - hey this is just fatal error message
+2020-10-25 01:10:47,213 DEBUG [main] LoginPageTest:38 - this is debug message
+2020-10-25 01:10:58,482  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-25 01:10:58,483  WARN [main] LoginPageTest:36 - Hey this just a warning message
+2020-10-25 01:10:58,484 FATAL [main] LoginPageTest:37 - hey this is just fatal error message
+2020-10-25 01:10:58,485 DEBUG [main] LoginPageTest:38 - this is debug message
+2020-10-25 01:11:09,414  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-25 01:11:09,414  WARN [main] LoginPageTest:36 - Hey this just a warning message
+2020-10-25 01:11:09,415 FATAL [main] LoginPageTest:37 - hey this is just fatal error message
+2020-10-25 01:11:09,415 DEBUG [main] LoginPageTest:38 - this is debug message
+2020-10-25 01:11:09,427  INFO [main] LoginPageTest:46 - ****************************** starting test case *****************************************
+2020-10-25 01:11:09,427  INFO [main] LoginPageTest:47 - ****************************** freeCrmTitleTest *****************************************
+2020-10-25 01:11:23,181  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-25 01:11:23,182  WARN [main] LoginPageTest:36 - Hey this just a warning message
+2020-10-25 01:11:23,182 FATAL [main] LoginPageTest:37 - hey this is just fatal error message
+2020-10-25 01:11:23,182 DEBUG [main] LoginPageTest:38 - this is debug message
+2020-10-26 11:42:57,312  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 11:43:12,513  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 11:43:23,228  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 11:43:33,774  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 11:43:33,778  INFO [main] LoginPageTest:44 - ****************************** starting test case *****************************************
+2020-10-26 11:43:33,778  INFO [main] LoginPageTest:45 - ****************************** freeCrmTitleTest *****************************************
+2020-10-26 11:43:43,921  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 12:19:34,656  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 12:19:47,459  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 12:19:58,376  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 12:20:13,774  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 12:20:13,775  INFO [main] LoginPageTest:44 - ****************************** starting test case *****************************************
+2020-10-26 12:20:13,776  INFO [main] LoginPageTest:45 - ****************************** freeCrmTitleTest *****************************************
+2020-10-26 12:20:23,719  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 12:44:41,058  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 12:44:53,583  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 12:45:06,015  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 12:46:22,464  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 12:46:22,469  INFO [main] LoginPageTest:44 - ****************************** starting test case *****************************************
+2020-10-26 12:46:22,470  INFO [main] LoginPageTest:45 - ****************************** freeCrmTitleTest *****************************************
+2020-10-26 12:46:33,902  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 12:46:43,005 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-10-26 12:46:43,007 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-10-26 12:46:43,009 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-10-26 12:46:43,011 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-10-26 12:46:43,012 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/riyshaik/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-10-26 12:46:43,519 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-10-26 12:46:43,520 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-10-26 12:46:43,521 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-10-26 12:46:43,522 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-10-26 12:46:43,524 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/riyshaik/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-10-26 17:43:24,479  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 17:43:37,193  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 17:43:49,602  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 17:45:09,925  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 17:45:09,933  INFO [main] LoginPageTest:44 - ****************************** starting test case *****************************************
+2020-10-26 17:45:09,934  INFO [main] LoginPageTest:45 - ****************************** freeCrmTitleTest *****************************************
+2020-10-26 17:45:23,635  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 17:45:32,836 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-10-26 17:45:32,870 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-10-26 17:45:32,884 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-10-26 17:45:32,886 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-10-26 17:45:32,887 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/riyshaik/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-10-26 17:45:34,171 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-10-26 17:45:34,173 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-10-26 17:45:34,174 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-10-26 17:45:34,175 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-10-26 17:45:34,176 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/riyshaik/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-10-26 17:47:38,074  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 17:50:38,265  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 17:50:55,370  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 17:51:07,761  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 17:51:18,183  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 17:51:18,185  INFO [main] LoginPageTest:44 - ****************************** starting test case *****************************************
+2020-10-26 17:51:18,185  INFO [main] LoginPageTest:45 - ****************************** freeCrmTitleTest *****************************************
+2020-10-26 17:51:30,107  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 18:29:01,434  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 18:29:11,547  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 18:29:22,078  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 18:29:31,762  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 18:29:31,764  INFO [main] LoginPageTest:44 - ****************************** starting test case *****************************************
+2020-10-26 18:29:31,765  INFO [main] LoginPageTest:45 - ****************************** freeCrmTitleTest *****************************************
+2020-10-26 18:29:41,658  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 19:08:59,780  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 19:09:10,389  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 19:09:21,161  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 19:09:32,053  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 19:09:32,054  INFO [main] LoginPageTest:44 - ****************************** starting test case *****************************************
+2020-10-26 19:09:32,054  INFO [main] LoginPageTest:45 - ****************************** freeCrmTitleTest *****************************************
+2020-10-26 19:09:42,651  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 19:19:58,857  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 19:20:10,159  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 19:20:20,973  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 19:20:32,057  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 19:20:32,059  INFO [main] LoginPageTest:44 - ****************************** starting test case *****************************************
+2020-10-26 19:20:32,061  INFO [main] LoginPageTest:45 - ****************************** freeCrmTitleTest *****************************************
+2020-10-26 19:20:41,196  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 19:27:33,923  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 19:27:44,522  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 19:27:54,774  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 19:28:05,340  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 19:28:05,348  INFO [main] LoginPageTest:44 - ****************************** starting test case *****************************************
+2020-10-26 19:28:05,349  INFO [main] LoginPageTest:45 - ****************************** freeCrmTitleTest *****************************************
+2020-10-26 19:28:13,880  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-27 09:25:44,848  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-27 09:25:55,580  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-27 09:26:04,598  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-27 09:26:13,807  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-27 09:26:13,809  INFO [main] LoginPageTest:44 - ****************************** starting test case *****************************************
+2020-10-27 09:26:13,810  INFO [main] LoginPageTest:45 - ****************************** freeCrmTitleTest *****************************************
+2020-10-27 09:26:21,562  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-28 10:34:15,010  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-28 10:34:34,970  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-28 10:34:53,651  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-28 10:35:10,179  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-28 10:35:10,187  INFO [main] LoginPageTest:44 - ****************************** starting test case *****************************************
+2020-10-28 10:35:10,187  INFO [main] LoginPageTest:45 - ****************************** freeCrmTitleTest *****************************************
+2020-10-28 10:35:20,101  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-28 10:38:40,130  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-28 10:38:50,036  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-28 10:39:01,844  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-28 10:39:12,939  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-28 10:39:12,945  INFO [main] LoginPageTest:44 - ****************************** starting test case *****************************************
+2020-10-28 10:39:12,946  INFO [main] LoginPageTest:45 - ****************************** freeCrmTitleTest *****************************************
+2020-10-28 10:39:21,007  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-28 13:53:24,932  INFO [main] LoginPageTest:40 - entering application URL
+2020-10-28 13:54:19,317  INFO [main] LoginPageTest:40 - entering application URL
+2020-10-28 13:54:59,470  INFO [main] LoginPageTest:40 - entering application URL
+2020-10-28 13:55:51,635  INFO [main] LoginPageTest:40 - entering application URL
+2020-10-28 14:35:29,177  INFO [main] LoginPageTest:40 - entering application URL
+2020-10-29 11:32:43,333  INFO [main] LoginPageTest:36 - entering application URL
+2020-10-29 11:36:22,423  INFO [main] LoginPageTest:36 - entering application URL
+2020-10-29 11:36:40,397  INFO [main] LoginPageTest:36 - entering application URL
+2020-10-29 11:36:53,277  INFO [main] LoginPageTest:36 - entering application URL
+2020-10-29 11:37:05,428  INFO [main] LoginPageTest:36 - entering application URL
+2020-10-29 11:37:05,430  INFO [main] LoginPageTest:45 - ****************************** starting test case *****************************************
+2020-10-29 11:37:05,431  INFO [main] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2020-10-29 11:37:14,157  INFO [main] LoginPageTest:36 - entering application URL
+2022-01-15 23:26:39,477  INFO [main] LoginPageTest:36 - entering application URL
+2022-01-15 23:26:48,020  INFO [main] LoginPageTest:36 - entering application URL
+2022-01-15 23:26:55,100  INFO [main] LoginPageTest:36 - entering application URL
+2022-01-15 23:27:03,125  INFO [main] LoginPageTest:36 - entering application URL
+2022-01-15 23:27:03,129  INFO [main] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-15 23:27:03,130  INFO [main] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-15 23:27:10,396  INFO [main] LoginPageTest:36 - entering application URL
+2022-01-15 23:37:40,972  INFO [main] LoginPageTest:36 - entering application URL
+2022-01-15 23:37:49,778  INFO [main] LoginPageTest:36 - entering application URL
+2022-01-15 23:37:57,664  INFO [main] LoginPageTest:36 - entering application URL
+2022-01-15 23:38:09,097  INFO [main] LoginPageTest:36 - entering application URL
+2022-01-15 23:38:09,099  INFO [main] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-15 23:38:09,099  INFO [main] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-15 23:38:15,113  INFO [main] LoginPageTest:36 - entering application URL
+2022-01-15 23:43:17,543  INFO [main] LoginPageTest:36 - entering application URL
+2022-01-15 23:43:25,345  INFO [main] LoginPageTest:36 - entering application URL
+2022-01-15 23:43:34,251  INFO [main] LoginPageTest:36 - entering application URL
+2022-01-15 23:43:42,144  INFO [main] LoginPageTest:36 - entering application URL
+2022-01-15 23:43:42,146  INFO [main] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-15 23:43:42,147  INFO [main] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-15 23:43:48,179  INFO [main] LoginPageTest:36 - entering application URL
+2022-01-15 23:52:36,256  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-15 23:52:44,756  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-15 23:52:54,175  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-15 23:53:01,646  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-15 23:53:01,647  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-15 23:53:01,648  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-15 23:53:07,897  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-15 23:56:33,722  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-15 23:56:42,220  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-15 23:56:50,288  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-15 23:56:59,524  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-15 23:56:59,525  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-15 23:56:59,526  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-15 23:56:59,840  INFO [TestNG-suites-2] LoginPageTest:36 - entering application URL
+2022-01-15 23:57:05,834  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-15 23:57:32,496  INFO [TestNG-suites-2] LoginPageTest:36 - entering application URL
+2022-01-15 23:57:42,403  INFO [TestNG-suites-2] LoginPageTest:36 - entering application URL
+2022-01-15 23:57:50,618  INFO [TestNG-suites-2] LoginPageTest:36 - entering application URL
+2022-01-15 23:57:50,618  INFO [TestNG-suites-2] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-15 23:57:50,618  INFO [TestNG-suites-2] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-15 23:57:56,468  INFO [TestNG-suites-2] LoginPageTest:36 - entering application URL
+2022-01-16 00:13:47,200  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 00:13:57,964  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 00:14:15,395  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 00:14:25,321  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 00:14:25,323  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-16 00:14:25,323  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-16 00:14:33,753  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 00:14:41,897  INFO [TestNG-suites-2] LoginPageTest:36 - entering application URL
+2022-01-16 00:15:15,009  INFO [TestNG-suites-2] LoginPageTest:36 - entering application URL
+2022-01-16 00:15:25,337  INFO [TestNG-suites-2] LoginPageTest:36 - entering application URL
+2022-01-16 00:15:36,187  INFO [TestNG-suites-2] LoginPageTest:36 - entering application URL
+2022-01-16 00:15:36,188  INFO [TestNG-suites-2] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-16 00:15:36,189  INFO [TestNG-suites-2] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-16 00:15:44,848  INFO [TestNG-suites-2] LoginPageTest:36 - entering application URL
+2022-01-16 00:17:59,572  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 00:18:09,948  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 00:18:26,327  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 00:18:37,168  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 00:18:37,171  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-16 00:18:37,171  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-16 00:18:45,645  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 00:18:53,956  INFO [TestNG-suites-2] LoginPageTest:36 - entering application URL
+2022-01-16 00:19:27,291  INFO [TestNG-suites-2] LoginPageTest:36 - entering application URL
+2022-01-16 00:19:37,628  INFO [TestNG-suites-2] LoginPageTest:36 - entering application URL
+2022-01-16 00:19:48,871  INFO [TestNG-suites-2] LoginPageTest:36 - entering application URL
+2022-01-16 00:19:48,873  INFO [TestNG-suites-2] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-16 00:19:48,873  INFO [TestNG-suites-2] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-16 00:19:56,667  INFO [TestNG-suites-2] LoginPageTest:36 - entering application URL
+2022-01-16 00:21:33,228  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 00:21:43,133  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 00:21:53,924  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 00:22:03,342  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 00:22:03,342  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-16 00:22:03,342  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-16 00:22:11,520  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 15:24:29,262  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 15:24:41,127  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 15:24:51,290  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 15:24:59,167  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 15:24:59,168  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-16 15:24:59,169  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-16 15:25:07,015  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 21:43:59,503  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 21:44:12,386  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 21:44:22,248  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 21:44:32,475  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 21:44:32,475  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-16 21:44:32,478  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-16 21:44:40,735  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 21:46:58,018  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 21:47:09,488  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 21:47:22,358  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 21:47:33,515  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 21:47:33,517  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-16 21:47:33,519  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-16 21:47:41,404  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 22:16:25,054  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 22:16:36,096  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 22:16:46,318  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 22:16:57,277  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 22:16:57,286  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-16 22:16:57,288  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-16 22:17:05,978  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 22:37:18,478  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 22:37:27,678  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 22:37:37,091  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 22:37:46,940  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 22:37:46,945  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-16 22:37:46,945  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-16 22:37:54,622  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 22:50:06,160  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 22:50:15,916  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 22:50:25,550  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 22:50:34,663  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 22:50:34,664  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-16 22:50:34,664  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-16 22:50:42,630  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 22:53:06,581  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 22:53:15,472  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 22:53:25,062  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 22:53:34,017  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 22:53:34,017  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-16 22:53:34,018  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-16 22:53:41,374  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 22:59:11,134  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 22:59:21,026  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 22:59:31,148  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 22:59:40,412  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 22:59:40,413  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-16 22:59:40,413  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-16 22:59:46,811  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 23:08:37,891  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 23:08:46,037  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 23:08:54,616  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 23:09:02,956  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 23:09:02,956  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-16 23:09:02,957  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-16 23:09:09,869  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 23:19:52,646  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 23:20:02,765  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 23:20:12,398  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 23:20:22,541  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 23:20:22,542  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-16 23:20:22,542  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-16 23:20:30,761  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 23:22:45,407  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 23:22:55,017  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 23:23:04,271  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 23:23:13,262  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 23:23:13,263  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-16 23:23:13,263  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-16 23:23:21,043  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 23:24:51,719  INFO [main] LoginPageTest:36 - entering application URL
+2022-01-16 23:25:01,014  INFO [main] LoginPageTest:36 - entering application URL
+2022-01-16 23:25:10,961  INFO [main] LoginPageTest:36 - entering application URL
+2022-01-16 23:25:20,701  INFO [main] LoginPageTest:36 - entering application URL
+2022-01-16 23:25:20,702  INFO [main] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-16 23:25:20,702  INFO [main] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-16 23:25:28,251  INFO [main] LoginPageTest:36 - entering application URL
+2022-01-16 23:31:11,282  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 23:31:21,066  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 23:31:30,789  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 23:31:40,152  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 23:31:40,153  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-16 23:31:40,153  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-16 23:31:47,606  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 23:33:52,261  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 23:34:03,076  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 23:34:13,823  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 23:34:24,303  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-16 23:34:24,304  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-16 23:34:24,304  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-16 23:34:33,160  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 09:47:22,843  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 09:47:33,073  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 09:47:43,204  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 09:47:52,312  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 09:47:52,312  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-17 09:47:52,312  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-17 09:47:59,707  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 11:08:26,155  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 11:09:20,485  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 11:09:57,438  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 11:10:28,817  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 11:10:28,821  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-17 11:10:28,822  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-17 11:10:51,634  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 11:14:22,481  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 11:14:41,269  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 11:14:57,067  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 11:15:10,206  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 11:15:10,211  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-17 11:15:10,212  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-17 11:15:21,893  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 11:31:26,351  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 11:31:44,823  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 11:32:07,542  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 11:32:37,510  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 11:32:37,513  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-17 11:32:37,513  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-17 11:33:04,657  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 11:41:06,004  INFO [main] LoginPageTest:36 - entering application URL
+2022-01-17 11:41:24,728  INFO [main] LoginPageTest:36 - entering application URL
+2022-01-17 11:41:37,526  INFO [main] LoginPageTest:36 - entering application URL
+2022-01-17 11:41:57,601  INFO [main] LoginPageTest:36 - entering application URL
+2022-01-17 11:41:57,604  INFO [main] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-17 11:41:57,604  INFO [main] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-17 11:42:14,411  INFO [main] LoginPageTest:36 - entering application URL
+2022-01-17 16:11:42,459  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 16:11:58,319  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 16:12:26,813  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 16:12:47,960  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 16:12:47,966  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-17 16:12:47,967  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-17 16:13:24,526  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 18:42:43,914  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 18:43:02,157  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 18:43:16,698  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 18:43:28,629  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 18:43:28,634  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-17 18:43:28,636  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-17 18:43:42,782  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 19:54:16,153  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 19:54:41,293  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 19:55:15,783  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 19:55:42,405  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 19:55:42,411  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-17 19:55:42,412  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-17 19:56:01,768  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 20:18:21,582  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 20:18:36,580  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 20:18:57,441  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 20:19:13,204  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 20:19:13,211  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-17 20:19:13,211  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-17 20:19:29,393  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 21:38:14,770  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 21:38:22,122  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 21:38:31,520  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 21:38:41,109  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 21:38:41,117  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-17 21:38:41,117  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-17 21:38:49,435  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 21:42:10,997  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 21:42:22,930  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 21:42:33,308  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 21:42:42,736  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 21:42:42,743  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-17 21:42:42,743  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-17 21:42:53,397  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 21:53:31,000  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 21:53:43,821  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 21:53:58,436  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 21:54:11,528  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 21:54:11,535  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-17 21:54:11,536  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-17 21:54:21,328  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:01:00,227  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:01:13,097  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:01:30,174  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:01:41,621  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:01:41,629  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-17 22:01:41,630  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-17 22:01:52,877  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:11:59,384  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:12:11,381  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:12:23,348  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:12:35,221  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:12:35,226  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-17 22:12:35,228  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-17 22:12:44,294  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:18:35,010  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:18:46,426  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:18:57,778  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:19:08,226  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:19:08,234  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-17 22:19:08,235  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-17 22:19:17,806  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:25:13,211  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:25:26,153  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:25:37,269  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:25:48,258  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:25:48,268  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-17 22:25:48,269  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-17 22:25:56,697  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:32:11,521  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:32:23,500  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:32:34,876  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:32:45,300  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:32:45,308  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-17 22:32:45,308  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-17 22:32:53,776  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:43:37,192  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:43:47,605  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:44:03,053  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:44:15,751  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:44:15,756  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-17 22:44:15,757  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-17 22:44:24,358  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:58:36,316  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:58:49,522  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:59:00,595  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:59:11,040  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:59:11,057  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-17 22:59:11,058  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-17 22:59:20,352  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:59:39,025  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 22:59:49,986  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 23:00:03,734  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 23:00:16,651  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-17 23:00:16,656  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-17 23:00:16,656  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-17 23:00:26,011  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-18 10:14:40,014  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-18 10:14:53,034  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-18 10:15:08,055  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-18 10:15:28,521  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-18 10:15:28,525  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-18 10:15:28,526  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-18 10:15:42,193  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-18 10:25:36,561  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-18 10:25:59,122  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-18 10:26:18,231  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-18 10:26:45,818  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-18 10:26:45,825  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-18 10:26:45,826  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-18 10:27:05,406  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-18 10:34:36,846  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-18 10:34:55,312  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-18 10:35:26,610  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-18 10:35:56,114  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-18 10:35:56,120  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-18 10:35:56,120  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-18 10:36:16,421  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-18 11:02:46,134  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-18 11:03:05,666  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-18 11:03:27,110  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-18 11:03:59,847  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-18 11:03:59,853  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-18 11:03:59,853  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-18 11:04:20,724  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-18 11:09:32,280  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-18 11:09:48,371  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-18 11:10:16,954  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-18 11:10:46,374  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-18 11:10:46,381  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-18 11:10:46,382  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-18 11:11:02,248  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-18 11:14:08,288  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-18 11:14:25,992  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-18 11:14:43,969  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-18 11:14:59,905  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-18 11:14:59,914  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-18 11:14:59,915  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-18 11:15:14,443  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-29 20:17:00,250  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-29 20:17:08,963  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-29 20:17:18,298  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-29 20:17:26,426  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL
+2022-01-29 20:17:26,434  INFO [TestNG-suites-1] LoginPageTest:45 - ****************************** starting test case *****************************************
+2022-01-29 20:17:26,435  INFO [TestNG-suites-1] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2022-01-29 20:17:32,904  INFO [TestNG-suites-1] LoginPageTest:36 - entering application URL

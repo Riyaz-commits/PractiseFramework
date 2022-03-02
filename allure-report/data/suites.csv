@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jan 18 11:14:59 IST 2022","Tue Jan 18 11:14:59 IST 2022","6","Suite","Test","com.orangehrm.qa.testcases.LoginPageTest","com.orangehrm.qa.testcases.LoginPageTest","loginpagetitlecase","loginpagetitlecase",""
+"passed","Tue Jan 18 11:14:08 IST 2022","Tue Jan 18 11:14:10 IST 2022","2447","Suite","Test","com.orangehrm.qa.testcases.LoginPageTest","com.orangehrm.qa.testcases.LoginPageTest","loginappfail","loginappfail",""
+"passed","Tue Jan 18 11:15:14 IST 2022","Tue Jan 18 11:15:23 IST 2022","9462","Suite","Test","com.orangehrm.qa.testcases.LoginPageTest","com.orangehrm.qa.testcases.LoginPageTest","loginapp","loginapp",""
+"passed","Tue Jan 18 11:13:48 IST 2022","Tue Jan 18 11:13:54 IST 2022","5772","Suite","Test","com.orangehrm.qa.testcases.AdminPageTest","com.orangehrm.qa.testcases.AdminPageTest","adminaccess","adminaccess",""
+"passed","Tue Jan 18 11:14:25 IST 2022","Tue Jan 18 11:14:28 IST 2022","2475","Suite","Test","com.orangehrm.qa.testcases.LoginPageTest","com.orangehrm.qa.testcases.LoginPageTest","loginappfail","loginappfail",""
+"passed","Tue Jan 18 11:14:43 IST 2022","Tue Jan 18 11:14:47 IST 2022","3031","Suite","Test","com.orangehrm.qa.testcases.LoginPageTest","com.orangehrm.qa.testcases.LoginPageTest","loginappfail","loginappfail",""

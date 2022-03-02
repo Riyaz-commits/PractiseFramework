@@ -1,0 +1,95 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "com.orangehrm.qa.testcases",
+    "children" : [ {
+      "name" : "AdminPageTest",
+      "children" : [ {
+        "name" : "adminaccess",
+        "uid" : "153052ee76bca51c",
+        "parentUid" : "2c98a626cb16f7aea34adee42fbc4d60",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642484628738,
+          "stop" : 1642484634510,
+          "duration" : 5772
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2c98a626cb16f7aea34adee42fbc4d60"
+    }, {
+      "name" : "LoginPageTest",
+      "children" : [ {
+        "name" : "loginappfail",
+        "uid" : "58e7596f2f779fa2",
+        "parentUid" : "a49b2ec90ec201c2e64d548d9fa393db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642484648299,
+          "stop" : 1642484650746,
+          "duration" : 2447
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Admin1", "admin123" ]
+      }, {
+        "name" : "loginappfail",
+        "uid" : "649627f8af98f17c",
+        "parentUid" : "a49b2ec90ec201c2e64d548d9fa393db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642484665998,
+          "stop" : 1642484668473,
+          "duration" : 2475
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Admin", "Admin1" ]
+      }, {
+        "name" : "loginappfail",
+        "uid" : "ffdeb2fcae01a978",
+        "parentUid" : "a49b2ec90ec201c2e64d548d9fa393db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642484683972,
+          "stop" : 1642484687003,
+          "duration" : 3031
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Admin9", "admin123" ]
+      }, {
+        "name" : "loginpagetitlecase",
+        "uid" : "b658e6bc95d6fa38",
+        "parentUid" : "a49b2ec90ec201c2e64d548d9fa393db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642484699914,
+          "stop" : 1642484699920,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginapp",
+        "uid" : "9295db923f39760d",
+        "parentUid" : "a49b2ec90ec201c2e64d548d9fa393db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642484714447,
+          "stop" : 1642484723909,
+          "duration" : 9462
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a49b2ec90ec201c2e64d548d9fa393db"
+    } ],
+    "uid" : "com.orangehrm.qa.testcases"
+  } ]
+}

@@ -1,0 +1,156 @@
+{
+  "uid" : "ffdeb2fcae01a978",
+  "name" : "loginappfail",
+  "fullName" : "com.orangehrm.qa.testcases.LoginPageTest.loginappfail",
+  "historyId" : "773b84b2c9e391551b26f817d7927f23",
+  "time" : {
+    "start" : 1642484683972,
+    "stop" : 1642484687003,
+    "duration" : 3031
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1642484669116,
+      "stop" : 1642484683969,
+      "duration" : 14853
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "endsession",
+    "time" : {
+      "start" : 1642484687005,
+      "stop" : 1642484687610,
+      "duration" : 605
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.orangehrm.qa.testcases.LoginPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.orangehrm.qa.testcases.LoginPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginappfail"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.orangehrm.qa.testcases.LoginPageTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-BQS7GFT"
+  }, {
+    "name" : "thread",
+    "value" : "7016@DESKTOP-BQS7GFT.TestNG-suites-1(13)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "Admin9"
+  }, {
+    "name" : "arg1",
+    "value" : "admin123"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a14c97190a1e67d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642484416960,
+        "stop" : 1642484420170,
+        "duration" : 3210
+      }
+    }, {
+      "uid" : "2f2f36439d9fb3db",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642484007115,
+        "stop" : 1642484011049,
+        "duration" : 3934
+      }
+    }, {
+      "uid" : "f4d6d1cbcae578a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642482326615,
+        "stop" : 1642482330441,
+        "duration" : 3826
+      }
+    }, {
+      "uid" : "75abce98d7c811cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642481778235,
+        "stop" : 1642481781206,
+        "duration" : 2971
+      }
+    }, {
+      "uid" : "8ff00b36ab23c8ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642481108060,
+        "stop" : 1642481113257,
+        "duration" : 5197
+      }
+    }, {
+      "uid" : "183a8577cbe58f88",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642440603741,
+        "stop" : 1642440605445,
+        "duration" : 1704
+      }
+    }, {
+      "uid" : "a81ad46105d62f15",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642440540601,
+        "stop" : 1642440542290,
+        "duration" : 1689
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ffdeb2fcae01a978.json",
+  "parameterValues" : [ "Admin9", "admin123" ]
+}

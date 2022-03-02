@@ -1,0 +1,150 @@
+{
+  "uid" : "153052ee76bca51c",
+  "name" : "adminaccess",
+  "fullName" : "com.orangehrm.qa.testcases.AdminPageTest.adminaccess",
+  "historyId" : "3f94e93a7183bac3d4fb343a2a5ec1bc",
+  "time" : {
+    "start" : 1642484628738,
+    "stop" : 1642484634510,
+    "duration" : 5772
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1642484601195,
+      "stop" : 1642484628642,
+      "duration" : 27447
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "endsession",
+    "time" : {
+      "start" : 1642484634517,
+      "stop" : 1642484635136,
+      "duration" : 619
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.orangehrm.qa.testcases.AdminPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.orangehrm.qa.testcases.AdminPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "adminaccess"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.orangehrm.qa.testcases.AdminPageTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-BQS7GFT"
+  }, {
+    "name" : "thread",
+    "value" : "7016@DESKTOP-BQS7GFT.TestNG-suites-1(13)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5111ed8068a807c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642484349092,
+        "stop" : 1642484356144,
+        "duration" : 7052
+      }
+    }, {
+      "uid" : "6521bd29ffe99ad8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642483948035,
+        "stop" : 1642483950383,
+        "duration" : 2348
+      }
+    }, {
+      "uid" : "9e243c1486545bfe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642482259469,
+        "stop" : 1642482263808,
+        "duration" : 4339
+      }
+    }, {
+      "uid" : "3b66e5dd2c00e4ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642481715181,
+        "stop" : 1642481721507,
+        "duration" : 6326
+      }
+    }, {
+      "uid" : "9deeeb46bc54cee7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642481060512,
+        "stop" : 1642481065045,
+        "duration" : 4533
+      }
+    }, {
+      "uid" : "b36d3bce9984a619",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642440566788,
+        "stop" : 1642440569334,
+        "duration" : 2546
+      }
+    }, {
+      "uid" : "df03e1d141399781",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642440503414,
+        "stop" : 1642440507274,
+        "duration" : 3860
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "153052ee76bca51c.json",
+  "parameterValues" : [ ]
+}

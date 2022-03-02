@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="191875" started-at="2022-01-17T11:39:14 IST" finished-at="2022-01-17T11:42:26 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="191875" started-at="2022-01-17T11:39:14 IST" finished-at="2022-01-17T11:42:26 IST">
+      <class name="com.orangehrm.qa.testcases.AdminPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.orangehrm.qa.testcases.AdminPageTest@543788f3]" name="setup" is-config="true" duration-ms="20615" started-at="2022-01-17T11:39:50 IST" finished-at="2022-01-17T11:40:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="adminaccess()[pri:0, instance:com.orangehrm.qa.testcases.AdminPageTest@543788f3]" name="adminaccess" duration-ms="2260" started-at="2022-01-17T11:40:11 IST" finished-at="2022-01-17T11:40:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminaccess -->
+        <test-method status="PASS" signature="endsession()[pri:0, instance:com.orangehrm.qa.testcases.AdminPageTest@543788f3]" name="endsession" is-config="true" duration-ms="633" started-at="2022-01-17T11:40:13 IST" finished-at="2022-01-17T11:40:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endsession -->
+      </class> <!-- com.orangehrm.qa.testcases.AdminPageTest -->
+      <class name="com.orangehrm.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.orangehrm.qa.testcases.HomePageTest@6d3af739]" name="setup" is-config="true" duration-ms="34320" started-at="2022-01-17T11:40:14 IST" finished-at="2022-01-17T11:40:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="maintainaccess()[pri:0, instance:com.orangehrm.qa.testcases.HomePageTest@6d3af739]" name="maintainaccess" duration-ms="2797" started-at="2022-01-17T11:40:48 IST" finished-at="2022-01-17T11:40:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maintainaccess -->
+        <test-method status="PASS" signature="endsession()[pri:0, instance:com.orangehrm.qa.testcases.HomePageTest@6d3af739]" name="endsession" is-config="true" duration-ms="616" started-at="2022-01-17T11:40:51 IST" finished-at="2022-01-17T11:40:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endsession -->
+      </class> <!-- com.orangehrm.qa.testcases.HomePageTest -->
+      <class name="com.orangehrm.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.orangehrm.qa.testcases.LoginPageTest@80ec1f8]" name="setup" is-config="true" duration-ms="13985" started-at="2022-01-17T11:40:52 IST" finished-at="2022-01-17T11:41:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginappfail(java.lang.String,java.lang.String)[pri:0, instance:com.orangehrm.qa.testcases.LoginPageTest@80ec1f8]" name="loginappfail" duration-ms="2106" started-at="2022-01-17T11:41:06 IST" data-provider="data-provider" finished-at="2022-01-17T11:41:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginappfail -->
+        <test-method status="PASS" signature="endsession()[pri:0, instance:com.orangehrm.qa.testcases.LoginPageTest@80ec1f8]" name="endsession" is-config="true" duration-ms="605" started-at="2022-01-17T11:41:08 IST" finished-at="2022-01-17T11:41:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endsession -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.orangehrm.qa.testcases.LoginPageTest@80ec1f8]" name="setup" is-config="true" duration-ms="16011" started-at="2022-01-17T11:41:08 IST" finished-at="2022-01-17T11:41:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginappfail(java.lang.String,java.lang.String)[pri:0, instance:com.orangehrm.qa.testcases.LoginPageTest@80ec1f8]" name="loginappfail" duration-ms="2733" started-at="2022-01-17T11:41:24 IST" data-provider="data-provider" finished-at="2022-01-17T11:41:27 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginappfail -->
+        <test-method status="PASS" signature="endsession()[pri:0, instance:com.orangehrm.qa.testcases.LoginPageTest@80ec1f8]" name="endsession" is-config="true" duration-ms="624" started-at="2022-01-17T11:41:27 IST" finished-at="2022-01-17T11:41:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endsession -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.orangehrm.qa.testcases.LoginPageTest@80ec1f8]" name="setup" is-config="true" duration-ms="9432" started-at="2022-01-17T11:41:28 IST" finished-at="2022-01-17T11:41:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginappfail(java.lang.String,java.lang.String)[pri:0, instance:com.orangehrm.qa.testcases.LoginPageTest@80ec1f8]" name="loginappfail" duration-ms="1716" started-at="2022-01-17T11:41:37 IST" data-provider="data-provider" finished-at="2022-01-17T11:41:39 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginappfail -->
+        <test-method status="PASS" signature="endsession()[pri:0, instance:com.orangehrm.qa.testcases.LoginPageTest@80ec1f8]" name="endsession" is-config="true" duration-ms="621" started-at="2022-01-17T11:41:39 IST" finished-at="2022-01-17T11:41:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endsession -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.orangehrm.qa.testcases.LoginPageTest@80ec1f8]" name="setup" is-config="true" duration-ms="17737" started-at="2022-01-17T11:41:39 IST" finished-at="2022-01-17T11:41:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginpagetitlecase()[pri:1, instance:com.orangehrm.qa.testcases.LoginPageTest@80ec1f8]" name="loginpagetitlecase" duration-ms="9" started-at="2022-01-17T11:41:57 IST" finished-at="2022-01-17T11:41:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpagetitlecase -->
+        <test-method status="PASS" signature="endsession()[pri:0, instance:com.orangehrm.qa.testcases.LoginPageTest@80ec1f8]" name="endsession" is-config="true" duration-ms="606" started-at="2022-01-17T11:41:57 IST" finished-at="2022-01-17T11:41:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endsession -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.orangehrm.qa.testcases.LoginPageTest@80ec1f8]" name="setup" is-config="true" duration-ms="16192" started-at="2022-01-17T11:41:58 IST" finished-at="2022-01-17T11:42:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginapp()[pri:2, instance:com.orangehrm.qa.testcases.LoginPageTest@80ec1f8]" name="loginapp" duration-ms="11150" started-at="2022-01-17T11:42:14 IST" finished-at="2022-01-17T11:42:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginapp -->
+        <test-method status="PASS" signature="endsession()[pri:0, instance:com.orangehrm.qa.testcases.LoginPageTest@80ec1f8]" name="endsession" is-config="true" duration-ms="628" started-at="2022-01-17T11:42:25 IST" finished-at="2022-01-17T11:42:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endsession -->
+      </class> <!-- com.orangehrm.qa.testcases.LoginPageTest -->
+      <class name="com.orangehrm.qa.testcases.MaintanancePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.orangehrm.qa.testcases.MaintanancePageTest@4d1b0d2a]" name="setup" is-config="true" duration-ms="35629" started-at="2022-01-17T11:39:14 IST" finished-at="2022-01-17T11:39:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="emprecord()[pri:0, instance:com.orangehrm.qa.testcases.MaintanancePageTest@4d1b0d2a]" name="emprecord" duration-ms="79" started-at="2022-01-17T11:39:49 IST" finished-at="2022-01-17T11:39:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emprecord -->
+        <test-method status="PASS" signature="endsession()[pri:0, instance:com.orangehrm.qa.testcases.MaintanancePageTest@4d1b0d2a]" name="endsession" is-config="true" duration-ms="688" started-at="2022-01-17T11:39:50 IST" finished-at="2022-01-17T11:39:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endsession -->
+      </class> <!-- com.orangehrm.qa.testcases.MaintanancePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
