@@ -8,6 +8,7 @@ import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
@@ -77,7 +78,7 @@ public static void initialization()
 	}
 	else if (System.getProperty("browser").equalsIgnoreCase("Edge")) {
 		WebDriverManager.edgedriver().setup();
-		driver = new InternetExplorerDriver();
+		driver = new EdgeDriver();
 	}
 	
 	
