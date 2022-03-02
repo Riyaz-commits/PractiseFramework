@@ -37,6 +37,7 @@
 				<configuration>
 					<suiteXmlFiles>
 						<suiteXmlFile>{xmlFiles}</suiteXmlFile>
+						
 					</suiteXmlFiles>
 					<systemPropertyVariables>
 						<executionBrowser>${browser}</executionBrowser>
