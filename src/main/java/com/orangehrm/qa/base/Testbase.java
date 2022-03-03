@@ -48,7 +48,7 @@ public static WebEventListener wbListener;
 	}
 
 
-public static void initialization()
+public static WebDriver initialization()
 {
 	/*
 	 * String browsername = prop.getProperty("browser");
@@ -99,8 +99,11 @@ public static void initialization()
 	driver.manage().deleteAllCookies();
 	driver.manage().timeouts().pageLoadTimeout(Testutil.Page_load_timeout, TimeUnit.SECONDS);
 	driver.manage().timeouts().implicitlyWait(Testutil.implicitwait, TimeUnit.SECONDS);
-	driver.get(prop.getProperty("url"));	
+	driver.get(prop.getProperty("url"));
+	
+	return driver;
 }
+
 
 }
 
