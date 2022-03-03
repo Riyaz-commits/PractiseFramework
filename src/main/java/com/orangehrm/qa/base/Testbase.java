@@ -8,9 +8,12 @@ import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.openqa.selenium.ie.InternetExplorerOptions;
+import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
 
 import com.orangehrm.qa.util.Testutil;
@@ -67,15 +70,23 @@ public static void initialization()
 	 * driver=e_driver;
 	 */
 	if (System.getProperty("browser").equalsIgnoreCase("Chrome")) {
+		
 		System.setProperty("webdriver.chrome.driver",".\\src\\main\\java\\com\\orangehrm\\qa\\util\\chromedriver.exe");
-		driver = new ChromeDriver();
+		ChromeOptions handlingSSL = new ChromeOptions();
+
+		//Using the accept insecure cert method with true as parameter to accept the untrusted certificate
+		handlingSSL.setAcceptInsecureCerts(true);
+		driver = new ChromeDriver(handlingSSL);
 	}
 		else if (System.getProperty("browser").equalsIgnoreCase("Firefox")) {
 		WebDriverManager.firefoxdriver().setup();
 		driver = new FirefoxDriver();
 	} else if (System.getProperty("browser").equalsIgnoreCase("IE")) {
 		WebDriverManager.iedriver().setup();
-		driver = new InternetExplorerDriver();
+		InternetExplorerOptions capabilities = new InternetExplorerOptions();
+		capabilities.ignoreZoomSettings();
+		driver = new InternetExplorerDriver(capabilities);
+		
 	}
 	else if (System.getProperty("browser").equalsIgnoreCase("Edge")) {
 		WebDriverManager.edgedriver().setup();
