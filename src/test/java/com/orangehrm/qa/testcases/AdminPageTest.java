@@ -42,7 +42,7 @@ public class AdminPageTest extends Testbase{
 		
 		String direct =driver.getTitle();
 		
-		Assert.assertEquals(direct, "OrangeHRM");
+		Assert.assertEquals( direct, "OrangeHRM");
 	}
 	
 
