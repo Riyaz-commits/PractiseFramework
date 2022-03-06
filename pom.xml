@@ -7,17 +7,12 @@
 	<artifactId>SeleniumProject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-
-
 	<name>SeleniumProject</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
-
-
-
 	<build>
 		<plugins>
 
